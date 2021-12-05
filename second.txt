@@ -7,3 +7,4 @@ Adding this line to practice merge.
 
 New line.
 Adding line 9.
+This line has been added to test the "stash" command.
